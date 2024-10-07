@@ -1,0 +1,4 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";1;"C";;;
+2;"U1";"VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm";1;"ATtiny1616-M";;;
+3;"J1";"DIP-16_W10.16mm";1;"Conn_02x08_Counter_Clockwise";;;

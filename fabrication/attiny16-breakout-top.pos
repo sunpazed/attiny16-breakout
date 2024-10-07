@@ -1,0 +1,8 @@
+### Footprint positions - created on 2024-10-02T14:14:14+1000 ###
+### Printed by KiCad version 8.0.3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                                           PosX       PosY       Rot  Side
+C1        0.1uF         C_1206_3216Metric_Pad1.33x1.80mm_HandSolder   151.0000   -93.9000   90.0000  top
+U1        ATtiny1616-M  VQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm          151.0000  -100.5500    0.0000  top
+## End
